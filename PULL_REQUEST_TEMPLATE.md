@@ -6,6 +6,10 @@ contribution.
 2. Fill in all sections of the template. 
 3. Click "Create pull request"
 
+Note: If you are creating a big pull request consider to breaking it in more PRs.
+If you don't know whether it's a big pull request feel free to as us in our
+channel in slack.
+
 # Pull Request Template
 
 ### :octocat: Are you working in some issue? Identify the issue!
