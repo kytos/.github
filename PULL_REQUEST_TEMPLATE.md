@@ -17,8 +17,8 @@ channel in slack.
 Link the issue describing what you're fixing.
 
 If there is not yet an issue, please open a new one and then link it to in your
-pull request. Note: In some cases, one person's "bug" is another person's 
-"feature." Note: the maintainers have the final say on on whether the current 
+pull request. In some cases, one person's "bug" is another person's 
+"feature", thus the maintainers have the final say on on whether the current 
 behavior is a bug or not.
 
 
