@@ -18,7 +18,7 @@ Link the issue describing what you're fixing.
 
 If there is not yet an issue, please open a new one and then link it to in your
 pull request. In some cases, one person's "bug" is another person's 
-"feature", thus the maintainers have the final say on on whether the current 
+"feature", thus the maintainers have the final say on whether the current 
 behavior is a bug or not.
 
 
@@ -49,7 +49,7 @@ text you typed, commands you ran, etc.), and describe the results you observed.
 ### :page_facing_up: Release Notes
 
 Please describe the changes in a single line that explains this improvement in
-terms that a user can understand.  This text will be used in project's release 
+terms that a user can understand. This text will be used in project's release 
 notes.
 
 If this change is not user-facing or notable enough to be included in release 
