@@ -11,12 +11,12 @@ channel in Slack.
 
 # Pull Request Template
 
-### :octocat: Are you working in some issue? Identify the issue!
+### :octocat: Are you working on some issue? Identify the issue!
 
 Link the issue describing what you're fixing.
 
-If there is not yet an issue, please open a new one and then link to it in your
-pull request. In some cases, one person's "bug" is another person's
+If there is not yet an issue open, please create a new one and then link to it
+in your pull request. In some cases, one person's "bug" is another person's
 "feature", thus the maintainers have the final say on whether the current
 behavior is a bug or not.
 
